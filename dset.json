@@ -1,0 +1,14 @@
+{
+    "maxLayers": 10,
+    "interpolation": "near",
+    "category": 
+        {
+            "id": 1
+        },
+    "level": 20,
+    "name": "real time lightning events CA",
+    "contact_person": "Patrick Currant <patrick.curran@ec.gc.ca>",
+    "name_alternate": "lightning events",
+    "description_short": "Real-time lightning events",
+    "description_long": "Lightning events that occur within the Canadian Lightning Network in real-time"
+}

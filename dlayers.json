@@ -1,0 +1,43 @@
+{
+  "layerType":"VectorPoint",
+  "group":"lightning records",
+  "layers": [
+    {
+      "name":"event_strenght",
+      "datatype":"fl",
+      "units":"kiloamperes",
+      "description":"Event strength"
+    },
+    {
+      "name":"chi_squared_value",
+      "datatype":"fl",
+      "units":"rel",
+      "description":"Chi squared value"
+    },
+    {
+      "name":"semi_major_axis",
+      "datatype":"fl",
+      "units":"km",
+      "description":"Semi-major axis of the 50% confidence ellipse"
+    },
+    {
+      "name":"semi_minor_axis",
+      "datatype":"fl",
+      "units":"km",
+      "description":"Semi-minor axis of the 50% confidence ellipse"
+    },
+    {
+      "name":"angle_of_the_confidence",
+      "datatype":"fl",
+      "units":"degrees from north",
+      "description":"Angle of the confidence ellipse from North"
+    },
+    {
+      "name":"flash_event_multiplicity",
+      "datatype":"sh",
+      "units":"count",
+      "description":"Multiplicity of flash events"
+    }
+   ]
+}
+

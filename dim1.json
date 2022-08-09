@@ -1,0 +1,6 @@
+{
+      "shortName":"cgstatus",
+      "type":"string",
+      "unit":"status",
+      "fullName":"Cloud or ground status. C indicates a cloud-cloud event, while G indicates a cloud-ground event"
+}

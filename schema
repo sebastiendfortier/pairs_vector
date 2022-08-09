@@ -1,0 +1,2 @@
+      time     lat      lon event_strenght chi_squared_value semi_major_axis  semi_minor_axis angle_of_the_confidence flash_event_multiplicity cgstatus flash_or_stroke                              eventtime
+1648771201,40.0385,-76.4921,          -5.3,              0.9,            0.3,             0.2,                    110,                       2,       G,           both,   2022-04-01 00:00:01.293004288+00:00

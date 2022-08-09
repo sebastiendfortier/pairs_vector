@@ -1,0 +1,4 @@
+pairsdataset=real-time-lightning-events-ca
+pairsdatatable=lightning-records
+uploadpriority=5
+pairsdatatype=point
